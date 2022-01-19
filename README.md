@@ -1,2 +1,3 @@
 # hello-world
 I am an internation student, I am currently studing a bachelors but I want to lear more about coding... 
+I am looking to get more knowledge about bots, and how it can help me through my future companies, also I would like to create and sell bots.
